@@ -37,14 +37,18 @@
     * [Gutter Color](https://github.com/ggordan/GutterColor) 
     * [Git Gutter](https://github.com/jisaacks/GitGutter)
 * [Sublime Text Book](https://sublimetextbook.com/)
-* [PhantomCSS](https://github.com/Huddle/PhantomCSS)
-* [Wraith](https://github.com/BBC-News/wraith)
 * [OSX Keyboard Shortcuts](http://www.osxkeyboardshortcuts.com/keyboard-symbols.html)
 * [CSS Shapes Editor Chrome extension](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp)
+ 
+## CSS Testing Tools
+* [PhantomCSS](https://github.com/Huddle/PhantomCSS)
+* [Wraith](https://github.com/BBC-News/wraith)
+* [Diffux](https://github.com/diffux/diffux)
 
 ## Styleguides
 * [Rizzo: Lonely Planet Styleguide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 * [LivingStyleGuide Gem](http://livingstyleguide.org/)
+* [Hologram](http://trulia.github.io/hologram/)
 
 ## CSS/pre-processors
 * [SCSS Blend Modes](https://github.com/heygrady/scss-blend-modes)
@@ -54,3 +58,4 @@
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
 * [Sparkbox Apprenticeship Program](http://seesparkbox.com/foundry/join_our_team_apply_for_a_2015_apprenticeship)
+* [Used and Abused – CSS Inheritance and Our Misuse of the Cascade] (http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
