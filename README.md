@@ -82,12 +82,12 @@
  	* [Sublime text tips by @wesbos](https://twitter.com/chriscoyier/status/521705231038418944)
  	* [Design the code by @katiekovalcin](https://twitter.com/chriscoyier/status/521688804323635201)
  	* [Learn to fly by @rmurphey](https://twitter.com/chriscoyier/status/521677223552499713)
- * Jess Elderedge
+* Jess Elderedge
  	* [Opening keynote w/ @rmurphey](https://twitter.com/jessabean/status/521699290951872512)
  	* [Closing keynote w/ @chriscoyier](https://twitter.com/jessabean/status/522145927193038848)
  	* [Keynote w/ @simplebits](https://twitter.com/Cuff_S/status/522143349784862720)
  	* [Style guides by @hagenburger](https://twitter.com/jessabean/status/521746731399004161)
- * [Albert Treat @aristretto](http://t.co/len50NcnBT)
+* [Albert Treat @aristretto](http://t.co/len50NcnBT)
 
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
