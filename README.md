@@ -40,6 +40,7 @@
 * [OSX Keyboard Shortcuts](http://www.osxkeyboardshortcuts.com/keyboard-symbols.html)
 * [CSS Shapes Editor Chrome extension](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp)
 * [Mousepose - show keyboard commands during presentations](http://www.boinx.com/mousepose)
+* [CSSCSS redundancy analyzer](http://zmoazeni.github.io/csscss/)
  
 ## CSS Testing Tools
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
@@ -55,8 +56,10 @@
 * [SCSS Blend Modes](https://github.com/heygrady/scss-blend-modes)
 * [CSS Color Chart](https://ainsleywagon.github.io/color-chart/)
 * [Decouple JS classes from CSS ones using a prefix](https://coderwall.com/p/qktuzw)
+* [Easings cheat sheet](http://easings.net/)
 
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
 * [Sparkbox Apprenticeship Program](http://seesparkbox.com/foundry/join_our_team_apply_for_a_2015_apprenticeship)
 * [Used and Abused – CSS Inheritance and Our Misuse of the Cascade] (http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+* [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
