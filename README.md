@@ -39,6 +39,7 @@
 * [Sublime Text Book](https://sublimetextbook.com/)
 * [OSX Keyboard Shortcuts](http://www.osxkeyboardshortcuts.com/keyboard-symbols.html)
 * [CSS Shapes Editor Chrome extension](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp)
+* [Mousepose - show keyboard commands during presentations](http://www.boinx.com/mousepose)
  
 ## CSS Testing Tools
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
