@@ -28,13 +28,14 @@
 
 ## Tools
 * Sublime Packages:
-    * Emmet
-    * JS-Hint gutter
-    * Ghost Text
-    * Origami
-    * Autofilename
-    * JSNext ES6
-    * GutterColor 
+    * [Emmet](http://emmet.io/)
+    * [JS-Hint Gutter](https://github.com/victorporof/Sublime-JSHint)
+    * [GhostText](https://github.com/Cacodaimon/GhostText-for-SublimeText)
+    * [Origami](https://github.com/SublimeText/Origami)
+    * [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+    * JavascriptNext ES6
+    * [Gutter Color](https://github.com/ggordan/GutterColor) 
+    * [Git Gutter](https://github.com/jisaacks/GitGutter)
 * [Sublime Text Book](https://sublimetextbook.com/)
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 * [Wraith](https://github.com/BBC-News/wraith)
