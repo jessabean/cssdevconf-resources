@@ -4,6 +4,7 @@
 * [Create Your Own Starter Files](https://speakerdeck.com/emilylewis/create-your-own-starter-files) by @emilylewis
 * [Design the Code, Not Pixel-Perfect Comps](https://speakerdeck.com/katiekovalcin/design-the-code) by @katiekovalcin
 * Goodbye Floats! Hello, CSS Flex & Grid Layouts! by @webq2
+	* [W3 Flexbox specs](http://www.w3.org/TR/css-flexbox-1/#box-model)
 * [Adaptive Images in RWD](http://www.slideshare.net/teleject/cssdevconf-adaptive-images-in-responsive-web-design-2014) by @teleject
 * [Become a Sublime Text Power User](http://wesbos.github.io/Sublime-Text-Power-User-Talk/#1) by @wesbos
 * [Modern Layouts: Getting Out of our Ruts](https://speakerdeck.com/jensimmons/css-dev-conf) by @jensimmons
@@ -21,6 +22,8 @@
 * [Responsive Typography](http://www.hwdesignco.com/events/2014/10/13/css-dev-conference-responsive-typography) by @jpamental
 * [Let's Get Testable](https://speakerdeck.com/aliciasedlock/lets-get-testable-an-introduction-to-unit-testing) by @aliciability
 * [Basic Transitions & Animations Deep Dive](http://estelle.github.io/animation/) by @estellewv
+	* [animation-fill-mode](http://t.co/KQxwYOIczS)
+	* [animation steps](http://t.co/RRpNaHltOT)
 * [Refactoring CSS: Programming Principles for Designers](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers) by @johnwlong
 * CSS Architecture by @snookca
 	* [Single responsibility principle](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
@@ -44,13 +47,14 @@
 * [CSS Shapes Editor Chrome extension](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp)
 * [Mousepose - show keyboard commands during presentations](http://www.boinx.com/mousepose)
 * [CSSCSS redundancy analyzer](http://zmoazeni.github.io/csscss/)
-* [UnCSS](http://davidwalsh.name/uncss)
+* [UnCSS](http://davidwalsh.name/uncss) — Find unused CSS
  
 ## CSS Testing Tools
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 * [Wraith](https://github.com/BBC-News/wraith)
 * [Diffux](https://github.com/diffux/diffux)
 * [CSSTe.st](http://csste.st/)
+* [Moustache](http://mustache.github.io/) — Templating
 
 ## Styleguides
 * [Rizzo: Lonely Planet Styleguide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
@@ -65,13 +69,34 @@
 * [Decouple JS classes from CSS ones using a prefix](https://coderwall.com/p/qktuzw)
 * [Easings cheat sheet](http://easings.net/)
 
+## Animation tools
+* [Cubic beziers](http://cubic-bezier.com/)
+
 ## Notes from attendees 
 * [Rachel Besser](http://rachelbeserdesign.com/cssdevconf2014/)
-* 
+* Chris Coyier
+ 	* [Testing by @aliciability](https://twitter.com/chriscoyier/status/521778516447072256)
+ 	* [Animating SVGs by @tessaharmon](https://twitter.com/chriscoyier/status/521766221142704128)
+ 	* [Performance by @johnbellah](https://twitter.com/chriscoyier/status/521750287359295488)
+ 	* [Responsive Sass by @taupecat](https://twitter.com/chriscoyier/status/521718381146148864)
+ 	* [Sublime text tips by @wesbos](https://twitter.com/chriscoyier/status/521705231038418944)
+ 	* [Design the code by @katiekovalcin](https://twitter.com/chriscoyier/status/521688804323635201)
+ 	* [Learn to fly by @rmurphey](https://twitter.com/chriscoyier/status/521677223552499713)
+ * Jess Elderedge
+ 	* [Opening keynote w/ @rmurphey](https://twitter.com/jessabean/status/521699290951872512)
+ 	* [Closing keynote w/ @chriscoyier](https://twitter.com/jessabean/status/522145927193038848)
+ 	* [Keynote w/ @simplebits](https://twitter.com/Cuff_S/status/522143349784862720)
+ 	* [Style guides by @hagenburger](https://twitter.com/jessabean/status/521746731399004161)
+ * [Albert Treat @aristretto](http://t.co/len50NcnBT)
 
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
 * [Sparkbox Apprenticeship Program](http://seesparkbox.com/foundry/join_our_team_apply_for_a_2015_apprenticeship)
 * [Used and Abused – CSS Inheritance and Our Misuse of the Cascade] (http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 * [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
-* [Uniform.js](http://uniformjs.com/)
+* [Uniform.js](http://uniformjs.com/) — Styles for forms
+* [Hammer.js](http://hammerjs.github.io/) — Adding touch gestures
+* [CSS Panic](https://t.co/NQPh5dgzis) — Gator game made entirely of CSS
+* [Flexbox guide](http://t.co/ZL5mdWTUJ7)
+* [Flexbox cheatsheet](http://jonibologna.com/flexbox-cheatsheet)
+* [HSL Color picker](http://t.co/an19bO1CPT)
