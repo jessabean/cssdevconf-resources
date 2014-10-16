@@ -11,7 +11,7 @@
 * [Building Responsive Sites Without Bottlenecks](https://github.com/andresgallo/CSSDevConf) by @andresgalloyup
 * [Building RWD with Sass](https://github.com/taupecat/cssdevconf) by @taupecat
 * CSS, Accessibility, and You by @feather
-* Embracing Performance Optimization by @jonbellah
+* [Embracing Performance Optimization](http://jonbellah.com/talks/cssdevconf) by @jonbellah
 * [OOCSS in the Real World](http://www.slideshare.net/JamieStrachan/oocss-in-the-real-world-revisited) by @jamiestrachan
 * [Animating SVGs with CSS](https://github.com/tessaharmon/nola-svg) by @tessaharmon
 * [Hyper-Optimized Workflow with Grunt, LESS, Autoprefixer, UNCSS, and more](http://jlengstorf.github.io/hyper-optimized-workflow-slides/#/) by @jlengstorf
@@ -41,6 +41,7 @@
 * [CSS Shapes Editor Chrome extension](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp)
 * [Mousepose - show keyboard commands during presentations](http://www.boinx.com/mousepose)
 * [CSSCSS redundancy analyzer](http://zmoazeni.github.io/csscss/)
+* [Uncss - remove unused CSS](https://github.com/giakki/uncss)
  
 ## CSS Testing Tools
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
