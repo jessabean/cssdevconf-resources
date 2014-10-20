@@ -33,7 +33,7 @@
     * [GhostText](https://github.com/Cacodaimon/GhostText-for-SublimeText)
     * [Origami](https://github.com/SublimeText/Origami)
     * [AutoFileName](https://github.com/BoundInCode/AutoFileName)
-    * JavascriptNext ES6
+    * [JavascriptNext ES6](https://sublime.wbond.net/packages/JavaScriptNext%20-%20ES6%20Syntax)
     * [Gutter Color](https://github.com/ggordan/GutterColor) 
     * [Git Gutter](https://github.com/jisaacks/GitGutter)
 * [Sublime Text Book](https://sublimetextbook.com/)
