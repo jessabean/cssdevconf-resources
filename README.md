@@ -10,7 +10,7 @@
 * [A Vision for Style Guides in 2015](https://speakerdeck.com/hagenburger/a-vision-for-style-guides-in-2015#n) by @hagenburger
 * [Building Responsive Sites Without Bottlenecks](https://github.com/andresgallo/CSSDevConf) by @andresgalloyup
 * [Building RWD with Sass](https://github.com/taupecat/cssdevconf) by @taupecat
-* CSS, Accessibility, and You by @feather
+* [CSS, Accessibility, and You](http://www.slideshare.net/derekfeatherstone/css-accessibility-and-you-cssdevconf-2014) by @feather
 * Embracing Performance Optimization by @jonbellah
 * [OOCSS in the Real World](http://www.slideshare.net/JamieStrachan/oocss-in-the-real-world-revisited) by @jamiestrachan
 * [Animating SVGs with CSS](https://github.com/tessaharmon/nola-svg) by @tessaharmon
@@ -23,7 +23,7 @@
 * [Refactoring CSS: Programming Principles for Designers](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers) by @johnwlong
 * CSS Architecture by @snookca
 * [Web Components and Modular CSS](http://www.slideshare.net/andrewrota/web-components-and-modular-css) by @andrewrota
-* Layout Design Patterns by @pixel_whip
+* [Layout Design Patterns](http://pixelwhip.github.io/layout-design-patterns/#/title-slide) by @pixel_whip
 * [Yo CSS!](http://snugug.github.io/yo-yo/) by @snugug
 
 ## Tools
