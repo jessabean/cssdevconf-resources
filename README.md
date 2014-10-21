@@ -4,7 +4,6 @@
 * [Create Your Own Starter Files](https://speakerdeck.com/emilylewis/create-your-own-starter-files) by @emilylewis
 * [Design the Code, Not Pixel-Perfect Comps](https://speakerdeck.com/katiekovalcin/design-the-code) by @katiekovalcin
 * Goodbye Floats! Hello, CSS Flex & Grid Layouts! by @webq2
-	* [W3 Flexbox specs](http://www.w3.org/TR/css-flexbox-1/#box-model)
 * [Adaptive Images in RWD](http://www.slideshare.net/teleject/cssdevconf-adaptive-images-in-responsive-web-design-2014) by @teleject
 * [Become a Sublime Text Power User](http://wesbos.github.io/Sublime-Text-Power-User-Talk/#1) by @wesbos
 * [Modern Layouts: Getting Out of our Ruts](https://speakerdeck.com/jensimmons/css-dev-conf) by @jensimmons
@@ -22,11 +21,8 @@
 * [Responsive Typography](http://www.hwdesignco.com/events/2014/10/13/css-dev-conference-responsive-typography) by @jpamental
 * [Let's Get Testable](https://speakerdeck.com/aliciasedlock/lets-get-testable-an-introduction-to-unit-testing) by @aliciability
 * [Basic Transitions & Animations Deep Dive](http://estelle.github.io/animation/) by @estellewv
-	* [animation-fill-mode](http://t.co/KQxwYOIczS)
-	* [animation steps](http://t.co/RRpNaHltOT)
 * [Refactoring CSS: Programming Principles for Designers](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers) by @johnwlong
 * CSS Architecture by @snookca
-	* [Single responsibility principle](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
 * [Web Components and Modular CSS](http://www.slideshare.net/andrewrota/web-components-and-modular-css) by @andrewrota
 * [Layout Design Patterns](http://pixelwhip.github.io/layout-design-patterns/#/title-slide) by @pixel_whip
 * [Yo CSS!](http://snugug.github.io/yo-yo/) by @snugug
@@ -87,7 +83,7 @@
  	* [Closing keynote w/ @chriscoyier](https://twitter.com/jessabean/status/522145927193038848)
  	* [Keynote w/ @simplebits](https://twitter.com/Cuff_S/status/522143349784862720)
  	* [Style guides by @hagenburger](https://twitter.com/jessabean/status/521746731399004161)
-* [Albert Treat @aristretto](http://t.co/len50NcnBT)
+* [Albert Treat @aristretto](https://gist.github.com/aristretto/2c2530e08f95e16dae01)
 
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
@@ -96,7 +92,8 @@
 * [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
 * [Uniform.js](http://uniformjs.com/) — Styles for forms
 * [Hammer.js](http://hammerjs.github.io/) — Adding touch gestures
-* [CSS Panic](https://t.co/NQPh5dgzis) — Gator game made entirely of CSS
-* [Flexbox guide](http://t.co/ZL5mdWTUJ7)
+* [CSS Panic](https://developer.mozilla.org/en-US/demos/detail/css-panic/launch) — Gator game made entirely of CSS
+* [W3 Flexbox specs](http://www.w3.org/TR/css-flexbox-1/#box-model)
+* [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox cheatsheet](http://jonibologna.com/flexbox-cheatsheet)
-* [HSL Color picker](http://t.co/an19bO1CPT)
+* [HSL Color picker](http://hslpicker.com/)
