@@ -13,7 +13,7 @@
 * [Building Responsive Sites Without Bottlenecks](https://github.com/andresgallo/CSSDevConf) by @andresgalloyup
 * [Building RWD with Sass](https://github.com/taupecat/cssdevconf) by @taupecat
 * [CSS, Accessibility, and You](http://www.slideshare.net/derekfeatherstone/css-accessibility-and-you-cssdevconf-2014) by @feather
-* Embracing Performance Optimization by @jonbellah
+* [Embracing Performance Optimization](http://jonbellah.com/talks/cssdevconf) by @jonbellah
 * [OOCSS in the Real World](http://www.slideshare.net/JamieStrachan/oocss-in-the-real-world-revisited) by @jamiestrachan
 * [Animating SVGs with CSS](https://github.com/tessaharmon/nola-svg) by @tessaharmon
 * [Hyper-Optimized Workflow with Grunt, LESS, Autoprefixer, UNCSS, and more](http://jlengstorf.github.io/hyper-optimized-workflow-slides/#/) by @jlengstorf
