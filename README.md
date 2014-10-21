@@ -84,6 +84,7 @@
  	* [Keynote w/ @simplebits](https://twitter.com/Cuff_S/status/522143349784862720)
  	* [Style guides by @hagenburger](https://twitter.com/jessabean/status/521746731399004161)
 * [Albert Treat @aristretto](https://gist.github.com/aristretto/2c2530e08f95e16dae01)
+* [Andrew Rota](https://github.com/andrewrota/css-dev-conf-2014-notes)
 
 ## Misc
 * [Refactoring Exercise](https://github.com/jina/refactoring/blob/master/exercise/README.md)
