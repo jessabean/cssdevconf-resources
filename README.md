@@ -69,7 +69,7 @@
 * [Cubic beziers](http://cubic-bezier.com/)
 
 ## Notes from attendees 
-* [Rachel Besser](http://rachelbeserdesign.com/cssdevconf2014/)
+* [Rachel Beser](http://rachelbeserdesign.com/cssdevconf2014/)
 * Chris Coyier
  	* [Testing by @aliciability](https://twitter.com/chriscoyier/status/521778516447072256)
  	* [Animating SVGs by @tessaharmon](https://twitter.com/chriscoyier/status/521766221142704128)
