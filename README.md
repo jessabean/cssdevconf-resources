@@ -3,7 +3,7 @@
 ## Slides
 * [Create Your Own Starter Files](https://speakerdeck.com/emilylewis/create-your-own-starter-files) by @emilylewis
 * [Design the Code, Not Pixel-Perfect Comps](https://speakerdeck.com/katiekovalcin/design-the-code) by @katiekovalcin
-* Goodbye Floats! Hello, CSS Flex & Grid Layouts! by @webq2
+* [Goodbye Floats! Hello, CSS Flex & Grid Layouts!](slides/CSSDevConf2014-Kenzey-Goodbye.pptx) by @webq2
 * [Adaptive Images in RWD](http://www.slideshare.net/teleject/cssdevconf-adaptive-images-in-responsive-web-design-2014) by @teleject
 * [Become a Sublime Text Power User](http://wesbos.github.io/Sublime-Text-Power-User-Talk/#1) by @wesbos
 * [Modern Layouts: Getting Out of our Ruts](https://speakerdeck.com/jensimmons/css-dev-conf) by @jensimmons
@@ -22,7 +22,7 @@
 * [Let's Get Testable](https://speakerdeck.com/aliciasedlock/lets-get-testable-an-introduction-to-unit-testing) by @aliciability
 * [Basic Transitions & Animations Deep Dive](http://estelle.github.io/animation/) by @estellewv
 * [Refactoring CSS: Programming Principles for Designers](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers) by @johnwlong
-* CSS Architecture by @snookca
+* [CSS Architecture](slides/CSSDevConf2014-Snook-CSSArchitecture.pdf) by @snookca
 * [Web Components and Modular CSS](http://www.slideshare.net/andrewrota/web-components-and-modular-css) by @andrewrota
 * [Layout Design Patterns](http://pixelwhip.github.io/layout-design-patterns/#/title-slide) by @pixel_whip
 * [Yo CSS!](http://snugug.github.io/yo-yo/) by @snugug
